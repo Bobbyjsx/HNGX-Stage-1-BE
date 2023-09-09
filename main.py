@@ -17,7 +17,7 @@ async def user(slack_name: str, track: str):
             "current_day": current_day,
             "utc_time": utc_time,
             "track": f"{track}",
-            "github_file_url": "https://github.com/bobbyjsx/HNGX-Stage-1-BE/blob/main/main.py",
-            "github_repo_url": "https://github.com/bobbyjsx/HNGX-Stage-1-BE",
+            "github_file_url": "https://github.com/Bobbyjsx/HNGX-Stage-1-BE/blob/main/main.py",
+            "github_repo_url": "https://github.com/Bobbyjsx/HNGX-Stage-1-BE",
             "status_code": 200,
             }
